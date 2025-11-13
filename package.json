@@ -1,0 +1,32 @@
+{
+  "name": "galaxycanvas",
+  "version": "1.0.0",
+  "description": "Interactive galaxy visualization tool with customizable parameters",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "dev": "python -m http.server 8080",
+    "build": "echo 'Static website - no build needed'",
+    "deploy": "echo 'Deploy to your favorite static hosting service'"
+  },
+  "keywords": [
+    "galaxy",
+    "visualization",
+    "three.js",
+    "webgl",
+    "interactive",
+    "cosmic",
+    "stars",
+    "nebula"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/galaxycanvas"
+  },
+  "homepage": "https://galaxycanvas.vercel.app",
+  "bugs": {
+    "url": "https://github.com/yourusername/galaxycanvas/issues"
+  }
+}
